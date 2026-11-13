@@ -1,0 +1,139 @@
+{
+  "buildFiles": [
+    "E:\\StudentCollegeApp\\node_modules\\@react-native-async-storage\\async-storage\\android\\build\\generated\\source\\codegen\\jni\\CMakeLists.txt",
+    "E:\\StudentCollegeApp\\node_modules\\@react-native-community\\netinfo\\android\\build\\generated\\source\\codegen\\jni\\CMakeLists.txt",
+    "E:\\StudentCollegeApp\\node_modules\\@react-native-firebase\\app\\android\\src\\reactnative\\java\\io\\invertase\\firebase\\app\\generated\\jni\\CMakeLists.txt",
+    "E:\\StudentCollegeApp\\node_modules\\@react-native-firebase\\auth\\android\\src\\main\\java\\io\\invertase\\firebase\\auth\\generated\\jni\\CMakeLists.txt",
+    "E:\\StudentCollegeApp\\node_modules\\@react-native-firebase\\firestore\\android\\src\\reactnative\\java\\io\\invertase\\firebase\\firestore\\generated\\jni\\CMakeLists.txt",
+    "E:\\StudentCollegeApp\\node_modules\\@react-native-firebase\\messaging\\android\\src\\main\\java\\io\\invertase\\firebase\\messaging\\generated\\jni\\CMakeLists.txt",
+    "E:\\StudentCollegeApp\\node_modules\\react-native-gesture-handler\\android\\CMakeLists.txt",
+    "E:\\StudentCollegeApp\\node_modules\\react-native-permissions\\android\\build\\generated\\source\\codegen\\jni\\CMakeLists.txt",
+    "E:\\StudentCollegeApp\\node_modules\\react-native-reanimated\\android\\build\\generated\\source\\codegen\\jni\\CMakeLists.txt",
+    "E:\\StudentCollegeApp\\node_modules\\react-native-safe-area-context\\android\\src\\main\\jni\\CMakeLists.txt",
+    "E:\\StudentCollegeApp\\node_modules\\react-native-screens\\android\\src\\main\\jni\\CMakeLists.txt",
+    "E:\\StudentCollegeApp\\node_modules\\react-native-svg\\android\\src\\main\\jni\\CMakeLists.txt",
+    "E:\\StudentCollegeApp\\node_modules\\react-native-vector-icons\\android\\build\\generated\\source\\codegen\\jni\\CMakeLists.txt",
+    "E:\\StudentCollegeApp\\node_modules\\react-native-worklets\\android\\build\\generated\\source\\codegen\\jni\\CMakeLists.txt",
+    "E:\\StudentCollegeApp\\node_modules\\react-native\\ReactAndroid\\cmake-utils\\default-app-setup\\CMakeLists.txt"
+  ],
+  "cleanCommandsComponents": [
+    [
+      "C:\\Users\\Saud\\AppData\\Local\\Android\\Sdk\\cmake\\3.22.1\\bin\\ninja.exe",
+      "-C",
+      "E:\\StudentCollegeApp\\android\\app\\.cxx\\Debug\\592l511z\\armeabi-v7a",
+      "clean"
+    ]
+  ],
+  "buildTargetsCommandComponents": [
+    "C:\\Users\\Saud\\AppData\\Local\\Android\\Sdk\\cmake\\3.22.1\\bin\\ninja.exe",
+    "-C",
+    "E:\\StudentCollegeApp\\android\\app\\.cxx\\Debug\\592l511z\\armeabi-v7a",
+    "{LIST_OF_TARGETS_TO_BUILD}"
+  ],
+  "libraries": {
+    "react_codegen_RNVectorIconsSpec::@479809fae146501fd34d": {
+      "artifactName": "react_codegen_RNVectorIconsSpec",
+      "abi": "armeabi-v7a",
+      "runtimeFiles": []
+    },
+    "react_codegen_safeareacontext::@7984cd80db47aa7b952a": {
+      "artifactName": "react_codegen_safeareacontext",
+      "abi": "armeabi-v7a",
+      "output": "E:\\StudentCollegeApp\\android\\app\\build\\intermediates\\cxx\\Debug\\592l511z\\obj\\armeabi-v7a\\libreact_codegen_safeareacontext.so",
+      "runtimeFiles": [
+        "C:\\Users\\Saud\\.gradle\\caches\\9.3.1\\transforms\\e8c0ade6303286d57a8d8fc0b119fc1f\\workspace\\transformed\\fbjni-0.7.0\\prefab\\modules\\fbjni\\libs\\android.armeabi-v7a\\libfbjni.so",
+        "C:\\Users\\Saud\\.gradle\\caches\\9.3.1\\transforms\\5c7fbfee1dcaeffef56429a3c1bea65c\\workspace\\transformed\\react-android-0.86.2-debug\\prefab\\modules\\jsi\\libs\\android.armeabi-v7a\\libjsi.so",
+        "C:\\Users\\Saud\\.gradle\\caches\\9.3.1\\transforms\\5c7fbfee1dcaeffef56429a3c1bea65c\\workspace\\transformed\\react-android-0.86.2-debug\\prefab\\modules\\reactnative\\libs\\android.armeabi-v7a\\libreactnative.so"
+      ]
+    },
+    "react_codegen_RNPermissionsSpec::@7ad697819b753921c957": {
+      "artifactName": "react_codegen_RNPermissionsSpec",
+      "abi": "armeabi-v7a",
+      "runtimeFiles": []
+    },
+    "react_codegen_rngesturehandler_codegen::@39f233abcd2c728bc6ec": {
+      "artifactName": "react_codegen_rngesturehandler_codegen",
+      "abi": "armeabi-v7a",
+      "output": "E:\\StudentCollegeApp\\android\\app\\build\\intermediates\\cxx\\Debug\\592l511z\\obj\\armeabi-v7a\\libreact_codegen_rngesturehandler_codegen.so",
+      "runtimeFiles": [
+        "C:\\Users\\Saud\\.gradle\\caches\\9.3.1\\transforms\\e8c0ade6303286d57a8d8fc0b119fc1f\\workspace\\transformed\\fbjni-0.7.0\\prefab\\modules\\fbjni\\libs\\android.armeabi-v7a\\libfbjni.so",
+        "C:\\Users\\Saud\\.gradle\\caches\\9.3.1\\transforms\\5c7fbfee1dcaeffef56429a3c1bea65c\\workspace\\transformed\\react-android-0.86.2-debug\\prefab\\modules\\jsi\\libs\\android.armeabi-v7a\\libjsi.so",
+        "C:\\Users\\Saud\\.gradle\\caches\\9.3.1\\transforms\\5c7fbfee1dcaeffef56429a3c1bea65c\\workspace\\transformed\\react-android-0.86.2-debug\\prefab\\modules\\reactnative\\libs\\android.armeabi-v7a\\libreactnative.so"
+      ]
+    },
+    "appmodules::@6890427a1f51a3e7e1df": {
+      "artifactName": "appmodules",
+      "abi": "armeabi-v7a",
+      "output": "E:\\StudentCollegeApp\\android\\app\\build\\intermediates\\cxx\\Debug\\592l511z\\obj\\armeabi-v7a\\libappmodules.so",
+      "runtimeFiles": [
+        "E:\\StudentCollegeApp\\android\\app\\build\\intermediates\\cxx\\Debug\\592l511z\\obj\\armeabi-v7a\\libreact_codegen_rngesturehandler_codegen.so",
+        "E:\\StudentCollegeApp\\android\\app\\build\\intermediates\\cxx\\Debug\\592l511z\\obj\\armeabi-v7a\\libreact_codegen_safeareacontext.so",
+        "E:\\StudentCollegeApp\\android\\app\\build\\intermediates\\cxx\\Debug\\592l511z\\obj\\armeabi-v7a\\libreact_codegen_rnscreens.so",
+        "E:\\StudentCollegeApp\\android\\app\\build\\intermediates\\cxx\\Debug\\592l511z\\obj\\armeabi-v7a\\libreact_codegen_rnsvg.so",
+        "C:\\Users\\Saud\\.gradle\\caches\\9.3.1\\transforms\\e8c0ade6303286d57a8d8fc0b119fc1f\\workspace\\transformed\\fbjni-0.7.0\\prefab\\modules\\fbjni\\libs\\android.armeabi-v7a\\libfbjni.so",
+        "C:\\Users\\Saud\\.gradle\\caches\\9.3.1\\transforms\\5c7fbfee1dcaeffef56429a3c1bea65c\\workspace\\transformed\\react-android-0.86.2-debug\\prefab\\modules\\jsi\\libs\\android.armeabi-v7a\\libjsi.so",
+        "C:\\Users\\Saud\\.gradle\\caches\\9.3.1\\transforms\\5c7fbfee1dcaeffef56429a3c1bea65c\\workspace\\transformed\\react-android-0.86.2-debug\\prefab\\modules\\reactnative\\libs\\android.armeabi-v7a\\libreactnative.so"
+      ]
+    },
+    "react_codegen_RNFBFirestoreTurboModules::@57d2c007211595d8fccf": {
+      "artifactName": "react_codegen_RNFBFirestoreTurboModules",
+      "abi": "armeabi-v7a",
+      "runtimeFiles": []
+    },
+    "react_codegen_rnsvg::@4f40eb209d0c0b4a3b65": {
+      "artifactName": "react_codegen_rnsvg",
+      "abi": "armeabi-v7a",
+      "output": "E:\\StudentCollegeApp\\android\\app\\build\\intermediates\\cxx\\Debug\\592l511z\\obj\\armeabi-v7a\\libreact_codegen_rnsvg.so",
+      "runtimeFiles": [
+        "C:\\Users\\Saud\\.gradle\\caches\\9.3.1\\transforms\\5c7fbfee1dcaeffef56429a3c1bea65c\\workspace\\transformed\\react-android-0.86.2-debug\\prefab\\modules\\reactnative\\libs\\android.armeabi-v7a\\libreactnative.so",
+        "C:\\Users\\Saud\\.gradle\\caches\\9.3.1\\transforms\\5c7fbfee1dcaeffef56429a3c1bea65c\\workspace\\transformed\\react-android-0.86.2-debug\\prefab\\modules\\jsi\\libs\\android.armeabi-v7a\\libjsi.so",
+        "C:\\Users\\Saud\\.gradle\\caches\\9.3.1\\transforms\\e8c0ade6303286d57a8d8fc0b119fc1f\\workspace\\transformed\\fbjni-0.7.0\\prefab\\modules\\fbjni\\libs\\android.armeabi-v7a\\libfbjni.so"
+      ]
+    },
+    "react_codegen_RNCNetInfoSpec::@c36c96bfd5b5770618a5": {
+      "artifactName": "react_codegen_RNCNetInfoSpec",
+      "abi": "armeabi-v7a",
+      "runtimeFiles": []
+    },
+    "react_codegen_rnworklets::@68f58d84d4754f193387": {
+      "artifactName": "react_codegen_rnworklets",
+      "abi": "armeabi-v7a",
+      "runtimeFiles": []
+    },
+    "react_codegen_RNFBAuthTurboModules::@27aa017f7fe35a7099bd": {
+      "artifactName": "react_codegen_RNFBAuthTurboModules",
+      "abi": "armeabi-v7a",
+      "runtimeFiles": []
+    },
+    "react_codegen_RNFBMessagingTurboModules::@23361e4831c0e3136ef6": {
+      "artifactName": "react_codegen_RNFBMessagingTurboModules",
+      "abi": "armeabi-v7a",
+      "runtimeFiles": []
+    },
+    "react_codegen_rnreanimated::@8afabad14bfffa3f8b9a": {
+      "artifactName": "react_codegen_rnreanimated",
+      "abi": "armeabi-v7a",
+      "runtimeFiles": []
+    },
+    "react_codegen_RNFBAppTurboModules::@a0d44c1163aba7af3ea1": {
+      "artifactName": "react_codegen_RNFBAppTurboModules",
+      "abi": "armeabi-v7a",
+      "runtimeFiles": []
+    },
+    "react_codegen_rnscreens::@25bcbd507e98d3a854ad": {
+      "artifactName": "react_codegen_rnscreens",
+      "abi": "armeabi-v7a",
+      "output": "E:\\StudentCollegeApp\\android\\app\\build\\intermediates\\cxx\\Debug\\592l511z\\obj\\armeabi-v7a\\libreact_codegen_rnscreens.so",
+      "runtimeFiles": [
+        "C:\\Users\\Saud\\.gradle\\caches\\9.3.1\\transforms\\5c7fbfee1dcaeffef56429a3c1bea65c\\workspace\\transformed\\react-android-0.86.2-debug\\prefab\\modules\\reactnative\\libs\\android.armeabi-v7a\\libreactnative.so",
+        "C:\\Users\\Saud\\.gradle\\caches\\9.3.1\\transforms\\5c7fbfee1dcaeffef56429a3c1bea65c\\workspace\\transformed\\react-android-0.86.2-debug\\prefab\\modules\\jsi\\libs\\android.armeabi-v7a\\libjsi.so",
+        "C:\\Users\\Saud\\.gradle\\caches\\9.3.1\\transforms\\e8c0ade6303286d57a8d8fc0b119fc1f\\workspace\\transformed\\fbjni-0.7.0\\prefab\\modules\\fbjni\\libs\\android.armeabi-v7a\\libfbjni.so"
+      ]
+    },
+    "react_codegen_AsyncStorageSpec::@15af80695a6281ecf900": {
+      "artifactName": "react_codegen_AsyncStorageSpec",
+      "abi": "armeabi-v7a",
+      "runtimeFiles": []
+    }
+  }
+}
